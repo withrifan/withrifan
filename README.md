@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**withrifan/withrifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Assalamu'alaikum 😇
+Hello, my friends 👋
+let me introduce my self:
+- ✨ My name Achmad Rif'an
+- 👨‍🎓 I graduated from vocational high school
+- 👨‍💻 I studied computer and network for 3 years in school
+- 🌱 I’m currently learning Front-end web
+- 💬 Ask me about networking or linux
+- 📫 How to reach me: https://www.instagram.com/withrifan/
+- 🔥 Fun fact: I use Fedora cinnamon for daily use
