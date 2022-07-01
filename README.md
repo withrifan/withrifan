@@ -6,5 +6,5 @@ let me introduce my self:
 - 👨‍💻 I'm studied computer and network for 3 years in school
 - 🌱 I’m currently learning Front-end web developer
 - 💬 Ask me about networking or linux
-- 📫 How to reach me on Instagram <span style="background-color: #FFFF00">withrifan</span>
+- 📫 How to reach me on Instagram or Facebook @withrifan
 - 🔥 Fun fact: I use Fedora cinnamon & Windows 10 for daily use
