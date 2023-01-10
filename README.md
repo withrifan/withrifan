@@ -1,6 +1,5 @@
 ### Assalamu'alaikum 😇
 Hello, my friends 👋
-let me introduce my self:
 - ✨ My name Achmad Rif'an
 - 👨‍💻 I'm fresh graduate from vocational high schooll
 - 💻 Majoring in Computer and Network Engineering
